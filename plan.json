@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-26T00:00:00+09:00",
+  "season": {
+    "title": "2026-27 シーズン",
+    "dreamEvent": "DANCE ALIVE FINAL",
+    "levels": [
+      { "lv": 1, "battles": ["A-POP", "FROG"], "status": "cleared" },
+      { "lv": 2, "battles": ["WAKUWAKU U-18", "BTTF"], "status": "current" },
+      { "lv": 3, "battles": ["HAVING FUN", "WAKUWAKU OPEN", "GIVE IT ALL", "BLITZ"], "status": "target" },
+      { "lv": 4, "battles": ["LIMIT MAKE", "BOTTOM UP"], "status": "target" },
+      { "lv": 5, "battles": ["BTTF ALL", "HIGH TIME", "DANCE ALIVE KIDS"], "status": "ahead" },
+      { "lv": 6, "battles": ["DANCE ALIVE", "Dance Your Style"], "status": "goal" }
+    ],
+    "milestones": [
+      { "by": "2027-01", "label": "Lv3" },
+      { "by": "2027-04", "label": "Lv3.5" },
+      { "by": "2027-09", "label": "Lv4" },
+      { "by": "2028-01", "label": "Lv4.5" }
+    ]
+  },
+  "months": [
+    {
+      "month": "2026-09",
+      "status": "active",
+      "headline": "毎日1回は かならず",
+      "thesis": "ダンスが上手くなるとは、グルーヴの表現とアイソレーションを極めること",
+      "battles": [
+        { "name": "Having Fun", "target": "ベスト8" },
+        { "name": "LIMIT MAKE", "target": "ベスト8" }
+      ],
+      "sections": [
+        {
+          "key": "rhythm",
+          "label": "リズムトレーニング",
+          "color": "mint",
+          "cues": ["足裏で地面を感じる"],
+          "note": "足［両足・左・右］× 立ち方［ニュートラル・ワイド・クローズ］= 9とおり",
+          "items": [
+            { "id": "r-ankle", "title": "足首", "detail": "▼ ダウン" },
+            { "id": "r-knee", "title": "膝", "detail": "▲ アップ ／ ▼ ダウン" },
+            { "id": "r-waist", "title": "腰", "detail": "▲ アップ ／ ▼ ダウン" },
+            { "id": "r-belly", "title": "お腹", "detail": "▲ アップ ／ ▼ ダウン" }
+          ]
+        },
+        {
+          "key": "isolation",
+          "label": "アイソレーション",
+          "color": "pink",
+          "cues": [
+            "まっすぐではなく、円を描くように動かす",
+            "動かすことより「動かさない」ほうが大切",
+            "ぜんぶ足裏でコントロールする"
+          ],
+          "items": [
+            { "id": "i-ankle", "title": "① 足首", "detail": "" },
+            { "id": "i-knee", "title": "② 膝", "detail": "" },
+            { "id": "i-waist", "title": "③ 腰", "detail": "" },
+            { "id": "i-sternum-low", "title": "④ 胸骨の下", "detail": "お腹" },
+            { "id": "i-sternum-up", "title": "⑤ 胸骨の上", "detail": "鎖骨" },
+            { "id": "i-neck", "title": "⑥ 首", "detail": "" }
+          ]
+        },
+        {
+          "key": "groove",
+          "label": "グルーヴ",
+          "color": "violet",
+          "cues": ["手や足でリズムを取るのではなく、体の中心から出す"],
+          "items": [
+            { "id": "g-core", "title": "体幹3か所で表現する", "detail": "頸椎・胸骨・仙骨" }
+          ]
+        }
+      ]
+    },
+    {
+      "month": "2026-10",
+      "status": "preview",
+      "headline": "連動・多重展開",
+      "thesis": "9月に分けた6か所を、組み合わせて動かす",
+      "battles": [],
+      "sections": []
+    },
+    {
+      "month": "2026-11",
+      "status": "preview",
+      "headline": "体幹部以外の連動",
+      "thesis": "中心から末端へ。肩・肘・手首・手指／股関節・膝・足首・足指",
+      "battles": [],
+      "sections": []
+    },
+    {
+      "month": "2026-12",
+      "status": "preview",
+      "headline": "時間のコントロール と 音の取り方",
+      "thesis": "止め方をきわめる。どの音に乗るかを選ぶ",
+      "battles": [],
+      "sections": []
+    },
+    {
+      "month": "2027-01",
+      "status": "preview",
+      "headline": "空間の使い方",
+      "thesis": "軸を保ったまま動く。高低差・角度・移動",
+      "battles": [],
+      "sections": []
+    }
+  ]
+}
